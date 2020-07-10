@@ -6,4 +6,4 @@
 
 ### 👋 Hi there
 
-My name is Mateus Cumerlatto and I'm data engineer and cyclist. Interested in data infrastruture engineering.
+My name is Mateus Cumerlatto and I'm data engineer and cyclist :biking_man:. Interested in data infrastruture engineering.
