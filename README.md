@@ -5,8 +5,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-grey?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuscumerlatto/)](https://www.instagram.com/mateuscumerlatto/)
 [![Strava Badge](https://img.shields.io/badge/-Strava-orange?style=flat-square&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/45602451)](https://www.strava.com/athletes/45602451)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscumerlatto@gmail.com)](mailto:mateuscumerlatto@gmail.com)
-[![Site Badge](https://img.shields.io/badge/-Site-lightgrey?style=flat-square&link=https://mateuscumerlatto.com)](https://mateuscumerlatto.com/)
 
 ### 👋 Hi there
 
-My name is Mateus Cumerlatto. I'm data engineer and cyclist :biking_man: . Interested in data infrastruture engineering.
+My name is Mateus Cumerlatto. I'm data engineer and cyclist :biking_man: .
+
+ - :snake: Python Enthusiast;
+ - :hammer: Data Infrastructure Enthusiast;
+ - 🌱 Currently learning Spark;
