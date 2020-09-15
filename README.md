@@ -10,6 +10,5 @@
 
 My name is Mateus Cumerlatto. I'm data engineer and cyclist :biking_man: .
 
- - :snake: Python Enthusiast;
- - :hammer: Data Infrastructure Enthusiast;
+ - :snake: Python and :hammer: Data Infrastructure Enthusiast;
  - 🌱 Currently learning Spark and AWS;
