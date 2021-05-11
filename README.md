@@ -5,7 +5,4 @@
 
 ### 🤙🏼 Hi there
 
-I'm Mateus Cumerlatto. I'm data engineer and cyclist :biking_man: .
-
- - :hammer: Data Infrastructure Enthusiast;
- - 🌱 Currently learning Spark with PySpark;
+I'm Mateus Cumerlatto. I'm data engineer/data production engineer and runner 🏃 .
