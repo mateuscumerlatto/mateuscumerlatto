@@ -5,4 +5,4 @@
 
 ### 🤙🏼 Hi there
 
-I'm Mateus Cumerlatto. I'm data engineer/data production engineer and runner 🏃 .
+I'm Mateus Cumerlatto. I'm data engineer/data production engineer current working at @PicPay
