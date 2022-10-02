@@ -5,4 +5,4 @@
 
 ### 🤙🏼 Hi there
 
-I'm Mateus Cumerlatto. I'm tech manager and data engineer current working at [@PicPay](https://github.com/PicPay)
+I'm Mateus Cumerlatto. I'm **tech manager** and **data engineer** current working at [@PicPay](https://github.com/PicPay)
